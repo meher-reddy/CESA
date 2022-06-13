@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CESA.iml" filepath="$PROJECT_DIR$/CESA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CESA.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CESA.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/speech/CESA.speech.iml" filepath="$PROJECT_DIR$/.idea/modules/speech/CESA.speech.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,4 @@
+rootProject.name='CESA'
+include ':app'
+include ':app', ':speech'
+
